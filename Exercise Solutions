@@ -1,2 +1,4 @@
 What is the fundamental idea behind Support Vector Machines?
 A: A Support Vector Machine(SVM) is a powerful machine learning model which is capable of performing linear or non linear classification,regression and outlier detection. It is well suited for classification of complex but small/medium sized datasets. The algorithm creates a hyperplane which separates the data into classes. 
+What is a support vector?
+A: Support vectors are the data points that lie closest to the decision surface (or hyperplane). They are the data points most difficult to classify . They have direct bearing on the optimum location of the decision surface . We can show that the optimal hyperplane stems from the function class with the lowest “capacity”= # of independent features/parameters we can twiddle.
